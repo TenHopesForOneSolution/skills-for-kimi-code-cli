@@ -1,0 +1,10 @@
+{
+  "name": "anthropic-mcp-builder",
+  "version": "1.0.0",
+  "description": "Guide for creating high-quality MCP servers",
+  "skills": "./skills/mcp-builder/",
+  "interface": {
+    "displayName": "MCP Builder",
+    "shortDescription": "Anthropic's guide for building MCP servers"
+  }
+}
